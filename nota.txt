@@ -1,0 +1,5 @@
+GET     = Obter dados
+POST    = Criar dados
+PUT     = Atualizar dados
+DELETE  = Apagar dados
+
